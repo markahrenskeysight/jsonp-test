@@ -1,0 +1,584 @@
+{
+   "version" : "https://jsonfeed.org/version/1",
+   "title" : "Daring Fireball",
+   "home_page_url" : "https://daringfireball.net/",
+   "feed_url" : "https://daringfireball.net/feeds/json",
+   "author" : {
+      "url" : "https://twitter.com/gruber",
+      "name" : "John Gruber"
+   },
+   "icon" : "https://daringfireball.net/graphics/apple-touch-icon.png",
+   "favicon" : "https://daringfireball.net/graphics/favicon-64.png",
+   "items" : [
+      {
+         "title" : "‘Philly Special’",
+         "date_published" : "2018-02-05T19:21:56Z",
+         "date_modified" : "2018-02-05T19:24:05Z",
+         "id" : "https://daringfireball.net/linked/2018/02/05/philly-special",
+         "url" : "https://daringfireball.net/linked/2018/02/05/philly-special",
+         "external_url" : "https://www.si.com/nfl/2018/02/05/super-bowl-52-eagles-patriots-peter-king-mmqb",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Peter King, writing for Sports Illustrated:</p>\n\n<blockquote>\n  <p>The Eagles are NFL champions for the first time in the Super Bowl era, for the first time since three weeks before the inauguration of John F. Kennedy. And it never would have happened without the head coach whom USA Today ranked seventh of seven new NFL coaching hires in January 2016.</p>\n\n<p>“He’s got a big set of stones,” offensive coordinator Frank Reich said, trying to find the words just before the clock struck 12 Sunday night.</p>\n</blockquote>\n\n<p>The inside story of the play that defined last night’s game.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.si.com/nfl/2018/02/05/super-bowl-52-eagles-patriots-peter-king-mmqb\">si.com/nfl/2018/02/05/super-bowl-52-eagles-patriots-peter</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Instabug",
+         "date_published" : "2018-02-02T22:56:03Z",
+         "date_modified" : "2018-02-02T22:56:06Z",
+         "id" : "https://daringfireball.net/linked/2018/02/02/instabug",
+         "url" : "https://daringfireball.net/linked/2018/02/02/instabug",
+         "external_url" : "https://instabug.com/df?utm_source=daringfireball&utm_medium=feed&utm_campaign=newsletter4",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>My thanks to Instabug for sponsoring this week&#8217;s DF RSS feed to promote their comprehensive bug reporting SDK for mobile apps. Instabug allows mobile developers and product managers to receive detailed bug reports and feedback from their testers and users. </p>\n\n<p>With each report, Instabug attaches screenshots, screen recordings, device details and repro-steps in one organized dashboard. Also, Instabug integrates with tools like Slack, Jira, and GitHub to help your team focus on developing not debugging.</p>\n\n<p>They have a cool <a href=\"https://itunes.apple.com/us/app/instabug/id1230889027?mt=8\">sample app</a> in the App Store that you can try for free, to experience their reporting interface first hand. Then, you can log into their <a href=\"https://dashboard.instabug.com/applications/demo-app-ios/live/\">demo dashboard</a> and see what the reports look like from the developers&#8217; end. I tried it out and it looks and works great, on both sides.</p>\n\n<p>Tens of thousands of companies like Lyft, eBay, and T-Mobile rely on Instabug to iterate faster and enhance their app quality. </p>\n\n<p><a href=\"https://instabug.com/df?utm_source=daringfireball&amp;utm_medium=feed&amp;utm_campaign=newsletter4\">Try Instabug now for free</a>. Even better, they&#8217;re offering a special 25 percent discount on all paid plans to Daring Fireball readers with promo code “DARING18”.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://instabug.com/df?utm_source=daringfireball&utm_medium=feed&utm_campaign=newsletter4\">instabug.com/df?utm_source=daringfireball&utm_medium=feed</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Google Releases YouTube TV App for Apple TV (and Roku)",
+         "date_published" : "2018-02-02T22:32:50Z",
+         "date_modified" : "2018-02-02T22:49:10Z",
+         "id" : "https://daringfireball.net/linked/2018/02/02/youtube-tv-apple-tv",
+         "url" : "https://daringfireball.net/linked/2018/02/02/youtube-tv-apple-tv",
+         "external_url" : "https://venturebeat.com/2018/02/01/google-releases-youtube-tv-app-for-apple-tv-and-roku/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>A lot of people are looking at HomePod&#8217;s exclusive first-class support for Apple Music and see selfish intent. <em>Apple isn&#8217;t working with Spotify or other services because they want everyone to use Apple&#8217;s media ecosystem for everything</em>, is the thinking. Maybe! But maybe HomePod only works with Apple Music <em>for now</em>. I don&#8217;t know, and Apple isn&#8217;t going to tell anyone.</p>\n\n<p>But look at Apple TV. There&#8217;s still no &#8220;skinny bundle&#8221; from Apple itself but now you use Apple TV to watch YouTube&#8217;s TV package, <a href=\"https://www.playstation.com/en-us/network/vue/apple-tv/\">Playstation&#8217;s</a>, and I&#8217;m sure others. There&#8217;s certainly no lock-in to the Apple media ecosystem on Apple TV. I think a lot of this is just a big complicated mess behind the scenes.</p>\n\n<p>(To be clear, because I see a lot of misinformation on this front: You can play Spotify or anything else on HomePod, but only over AirPlay, not just by talking to the device like you can with Apple Music and iTunes Store music.)</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://venturebeat.com/2018/02/01/google-releases-youtube-tv-app-for-apple-tv-and-roku/\">venturebeat.com/2018/02/01/google-releases-youtube-tv-app</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Why Alexa Won’t Light Up During Amazon’s Super Bowl Ad",
+         "date_published" : "2018-02-02T18:12:37Z",
+         "date_modified" : "2018-02-02T18:17:25Z",
+         "id" : "https://daringfireball.net/linked/2018/02/02/alexa-super-bowl",
+         "url" : "https://daringfireball.net/linked/2018/02/02/alexa-super-bowl",
+         "external_url" : "https://www.bloomberg.com/news/articles/2018-02-02/here-s-why-alexa-won-t-light-up-during-amazon-s-super-bowl-ad",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Brad Stone, writing for Bloomberg:</p>\n\n<blockquote>\n  <p>The patent broadly describes two techniques. The first calls for transmitting a snippet of a commercial to Echo devices before it airs. Then the Echo can compare live commands to the acoustic fingerprint of the snippet to determine whether the commands are authentic. The second tactic describes how a commercial itself could transmit an inaudible acoustic signal to tell Alexa to ignore its wake word.</p>\n\n<p>About a year ago, a Reddit user calling himself Asphyhackr did a little more legwork and concluded that Amazon was creatively employing this second technique.</p>\n</blockquote>\n\n<p>Will be amusing — insofar as silly patent fights are ever truly amusing — if Amazon tries to keep Apple and Google from doing the same thing in commercials.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.bloomberg.com/news/articles/2018-02-02/here-s-why-alexa-won-t-light-up-during-amazon-s-super-bowl-ad\">bloomberg.com/news/articles/2018-02-02/here-s-why-alexa-won</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Actual Headline From NBC News: ‘Can Self-Taught Rocket Scientist Mike Hughes Prove Earth Is Flat?’",
+         "date_published" : "2018-02-02T17:09:46Z",
+         "date_modified" : "2018-02-02T17:12:36Z",
+         "id" : "https://daringfireball.net/linked/2018/02/02/nbc-news-headlines",
+         "url" : "https://daringfireball.net/linked/2018/02/02/nbc-news-headlines",
+         "external_url" : "https://www.nbcnews.com/video/can-self-taught-rocket-scientist-mike-hughes-prove-earth-is-flat-1151204931647?v=b&cid=sm_npd_nn_tw_ma",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>We all know questions in headlines are <a href=\"https://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines\">generally bullshit</a>. But this one really takes the cake. For shame, NBC.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.nbcnews.com/video/can-self-taught-rocket-scientist-mike-hughes-prove-earth-is-flat-1151204931647?v=b&cid=sm_npd_nn_tw_ma\">nbcnews.com/video/can-self-taught-rocket-scientist-mike</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Walt Mossberg on the iPad",
+         "date_published" : "2018-02-02T13:14:27Z",
+         "date_modified" : "2018-02-05T19:26:47Z",
+         "id" : "https://daringfireball.net/linked/2018/02/02/mossberg-ipad",
+         "url" : "https://daringfireball.net/linked/2018/02/02/mossberg-ipad",
+         "external_url" : "https://mobile.twitter.com/waltmossberg/status/959281404264685569",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Walt Mossberg:</p>\n\n<blockquote>\n  <p>A footnote on @apple and tablets: the iPad alone brought in nearly $6 billion in the holiday quarter, and unit sales were up very slightly at over 13 million. Most companies would kill for a single product with those kinds of numbers, even if they’re well down from the peak.</p>\n</blockquote>\n\n<p><a href=\"https://twitter.com/stevesi/status/959313818496069633\">Steven Sinofsky, in the same thread</a>:</p>\n\n<blockquote>\n  <p>@waltmossberg @Apple Also, worldwide 2017 there were perhaps 100 million consumer laptops sold. iPads selling at ~half that puts the number in context, especially considering the price, durability, and lifespan of an iPad compared to PC laptop.</p>\n</blockquote>\n\n<p>In short, iPad sales are way down from their peak, but amount to a unit sales market half the size of the entire <em>consumer</em> PC laptop market. And iPads tend to last longer.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://mobile.twitter.com/waltmossberg/status/959281404264685569\">mobile.twitter.com/waltmossberg/status/959281404264685569</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Is It a Problem That HomePod Only Works With Apple Products?",
+         "date_published" : "2018-02-02T03:52:24Z",
+         "date_modified" : "2018-02-02T03:53:29Z",
+         "id" : "https://daringfireball.net/linked/2018/02/01/homepod-simon",
+         "url" : "https://daringfireball.net/linked/2018/02/01/homepod-simon",
+         "external_url" : "https://www.macworld.com/article/3252248/home-tech/homepod-lock-in-ipod.html",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Michael Simon, writing at Macworld:</p>\n\n<blockquote>\n  <p>And in many ways, it is. If anyone rushed to Apple.com to buy a\nHomePod after seeing one of the Grammy ads, they might be in for a\nsurprise after it arrives on February 9, especially if they missed\nthe disclaimer at the end of the commercial: <em>Requires compatible\nApple device.</em> More than any other Apple product on the market\ntoday, HomePod is indelibly tied to Apple’s iEcosystem, so if you\nhave an Android phone, you’re out of luck, even if you happen to\nsubscribe to Apple Music.</p>\n\n<p>It all reminds me of the early days of the iPod: a high-priced\ndevice that only works with Apple products. But while the strategy\nmight have worked back in 2001, it’s going to be a much harder\nsell now.</p>\n</blockquote>\n\n<p>This was the knock on the Apple Watch as well &#8212; which didn&#8217;t just require &#8220;a compatible Apple device&#8221;. It required one specific (expensive) Apple product: the iPhone. I think it has done <a href=\"https://www.cnbc.com/2017/09/12/apple-watch-is-now-the-number-one-watch-in-the-world.html\">OK</a>.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.macworld.com/article/3252248/home-tech/homepod-lock-in-ipod.html\">macworld.com/article/3252248/home-tech/homepod-lock-in-ipod</a></strong></em></p>\n"
+      },
+      {
+         "title" : "The Verge: ‘Surface Pro 4 Owners Are Putting Their Tablets in Freezers to Fix Screen Flickering Issues’",
+         "date_published" : "2018-02-02T03:45:09Z",
+         "date_modified" : "2018-02-02T13:41:52Z",
+         "id" : "https://daringfireball.net/linked/2018/02/01/surface-pro-freezers",
+         "url" : "https://daringfireball.net/linked/2018/02/01/surface-pro-freezers",
+         "external_url" : "https://www.theverge.com/2018/2/1/16958954/microsoft-surface-pro-4-screen-flickering-issues-flickergate",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Tom Warren, writing for The Verge:</p>\n\n<blockquote>\n  <p>Some owners have even started freezing their tablets to stop the\nscreen flickering temporarily. “I get about half an hour’s use out\nof it after ten minutes in the freezer,” says one owner. Another\nuser posted a video showing how the flickering stops as soon as\nthe Surface Pro 4 is placed in a freezer. The Verge understands\nthat the screen flickering problem is a hardware issue that\nMicrosoft won’t be able to fix with a software update. It’s\ncurrently affecting less than 1 percent of all Surface Pro 4\ndevices.</p>\n</blockquote>\n\n<ol>\n<li>This is not a &#8220;fix&#8221;.</li>\n<li>This sounds like a bad idea even as a temporary salve. Condensation is a thing.</li>\n</ol>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.theverge.com/2018/2/1/16958954/microsoft-surface-pro-4-screen-flickering-issues-flickergate\">theverge.com/2018/2/1/16958954/microsoft-surface-pro-4</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Rodney Dangerfield in Stanley Kubrick’s ‘The Killing’",
+         "date_published" : "2018-02-02T03:26:04Z",
+         "date_modified" : "2018-02-02T03:26:07Z",
+         "id" : "https://daringfireball.net/linked/2018/02/01/dangerfield-kubrick",
+         "url" : "https://daringfireball.net/linked/2018/02/01/dangerfield-kubrick",
+         "external_url" : "http://kdk12.tumblr.com/post/46667029351/rodney-dangerfield-in-kubricks-the-killing",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>This is amazing. (Thanks to DF reader François Kahn for the tip.)</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"http://kdk12.tumblr.com/post/46667029351/rodney-dangerfield-in-kubricks-the-killing\">kdk12.tumblr.com/post/46667029351/rodney-dangerfield-in</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Apple Reports 2017 Holiday Quarter Results",
+         "date_published" : "2018-02-01T22:16:28Z",
+         "date_modified" : "2018-02-01T23:59:58Z",
+         "id" : "https://daringfireball.net/linked/2018/02/01/aapl-q1-2018-results",
+         "url" : "https://daringfireball.net/linked/2018/02/01/aapl-q1-2018-results",
+         "external_url" : "https://www.apple.com/newsroom/2018/02/apple-reports-first-quarter-results/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Apple:</p>\n\n<blockquote>\n  <p>“We’re thrilled to report the biggest quarter in Apple’s history,\nwith broad-based growth that included the highest revenue ever\nfrom a new iPhone lineup. iPhone X surpassed our expectations and\nhas been our top-selling iPhone every week since it shipped in\nNovember,” said Tim Cook, Apple’s CEO.</p>\n</blockquote>\n\n<p>So that whole narrative about iPhone X being less popular than expected? <em>Never mind.</em></p>\n\n<p><a href=\"https://sixcolors.com/post/2018/02/apple-reports-its-holiday-2017-earnings-today/\">Jason Snell has done his usual sorcery to get Apple&#8217;s numbers into charts</a>. On the iPhone, unit sales were down about 1 percent year-over-year, but revenue was up about 6 percent. And this year&#8217;s holiday quarter was one week shorter than last years &#8212; <em>and</em> the much-anticipated iPhone X didn&#8217;t get into customers&#8217; hands <a href=\"https://www.macrumors.com/2017/10/28/first-iphone-x-orders-shipping-out/\">until November 3</a>, over a month into the quarter. The average selling price for all iPhones went up $102 year-over-year. Seems like proof that the iPhone X strategy is working.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.apple.com/newsroom/2018/02/apple-reports-first-quarter-results/\">apple.com/newsroom/2018/02/apple-reports-first-quarter</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Wired: ‘Podcast Listeners Really Are the Holy Grail Advertisers Hoped They’d Be’",
+         "date_published" : "2018-02-01T20:41:21Z",
+         "date_modified" : "2018-02-01T21:19:35Z",
+         "id" : "https://daringfireball.net/linked/2018/02/01/podcast-analytics",
+         "url" : "https://daringfireball.net/linked/2018/02/01/podcast-analytics",
+         "external_url" : "https://www.wired.com/story/apple-podcast-analytics-first-month/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Miranda Katz, reporting for Wired:</p>\n\n<blockquote>\n  <p>Apple’s Podcast Analytics feature finally became available last\nmonth, and Euceph &#8212; along with podcasters everywhere &#8212; breathed\na sigh of relief. Though it’s still early days, the numbers\npodcasters are seeing are highly encouraging. Forget those\nworries that the podcast bubble would burst the minute anyone\nactually got a closer look: It seems like podcast listeners\nreally are the hyper-engaged, super-supportive audiences that\neveryone hoped. [&#8230;]</p>\n\n<p>Across the podcast ecosystem, the results are similarly uplifting.\nAt Panoply, home to podcasts like Slate’s Political Gabfest and\nMalcolm Gladwell’s Revisionist History, CTO Jason Cox says that\nlisteners are typically getting through 80-90 percent of content;\nthe same is true at Headgum, the podcast network started by Jake\nHurwitz and Amir Blumenfeld. Those numbers tend to be steady\nregardless of the length of the show &#8212; and according to Panoply,\nthe few listeners who do skip ads continue to remain engaged with\nthe episode, rather than dropping off at the first sign of an\ninterruption. “I think people are overall very relieved to see\nthat people are actually listening the way that we hoped,” says\nHeadgum CTO Andrew Pile. “There are really audiences out there who\nlisten to every word that comes out of [a host’s] mouth.”</p>\n</blockquote>\n\n<p><a href=\"https://twitter.com/marcoarment/status/958442990384623616\">Marco Arment</a>:</p>\n\n<blockquote>\n  <p>The podcast business didn’t really need precise listener\nbehavioral data. Who knew?</p>\n</blockquote>\n\n<p>I don&#8217;t obsess over these iTunes Podcast analytics, but I&#8217;ve taken a look now that Apple is offering them, and the results for <a href=\"https://daringfireball.net/thetalkshow/\">my show</a> jibe with what&#8217;s being reported in this story: most people stick around to the end, and most people don&#8217;t skip the ads.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.wired.com/story/apple-podcast-analytics-first-month/\">wired.com/story/apple-podcast-analytics-first-month/</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Lindy West: ‘I Quit Twitter and It Feels Great’",
+         "date_published" : "2018-02-01T20:22:17Z",
+         "date_modified" : "2018-02-01T20:22:19Z",
+         "id" : "https://daringfireball.net/linked/2018/02/01/lindy-west-quit-twitter",
+         "url" : "https://daringfireball.net/linked/2018/02/01/lindy-west-quit-twitter",
+         "external_url" : "https://www.nytimes.com/2018/02/01/opinion/quitting-twitter-lindy-west.html",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Lindy West, writing for The New York Times:</p>\n\n<blockquote>\n  <p>I’m frequently approached by colleagues, usually women, who ask me\nabout quitting Twitter with hushed titillation, as if I’ve escaped\na cult or broken a particularly seductive taboo. Well, here’s what\nmy new life is like: I don’t wake up with a pit in my stomach\nevery day, dreading what horrors accrued in my phone overnight. I\ndon’t get dragged into protracted, bad-faith arguments with\nteenage boys about whether poor people deserve medical care, or\nwhether putting nice guys in the friend zone is a hate crime. I\ndon’t spend hours every week blocking and reporting trolls and\nscreen-grabbing abuse in case it someday escalates into a credible\nthreat. I no longer feel like my brain is trapped in a centrifuge\nfilled with swastikas and Alex Jones’s spittle. Time is finite,\nand now I have more of it.</p>\n\n<p>At the same time, I know this conversation is more complicated\nthan that. I’ve lost a large platform to self-promote and make\nprofessional connections, which isn’t something many writers can\nafford to give up (less established writers and marginalized\nwriters most of all &#8212; in a horrid irony, the same writers\ndisproportionately abused on Twitter). I get my news on a slight\ndelay. I seethe at the perception that I ceded any ground to\ntrolls trying to push me out. I will probably never persuade\nRuPaul to be my friend. Also, I loved Twitter. Twitter is funny\nand smart and validating and cathartic. It feels, when you are\nembroiled in it, like the place where everything is happening.\n(Scoff if you like, but the president of the United States makes\nmajor policy announcements there. This is the world now.)</p>\n</blockquote>\n\n<p>I really hope Jack Dorsey reads West&#8217;s piece and takes it to heart. She&#8217;s the last sort of person Twitter should want to leave the platform.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.nytimes.com/2018/02/01/opinion/quitting-twitter-lindy-west.html\">nytimes.com/2018/02/01/opinion/quitting-twitter-lindy-west</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Instagram Is Turning Into Facebook",
+         "date_published" : "2018-02-01T20:14:16Z",
+         "date_modified" : "2018-02-02T04:38:15Z",
+         "id" : "https://daringfireball.net/linked/2018/02/01/instagram-facebook",
+         "url" : "https://daringfireball.net/linked/2018/02/01/instagram-facebook",
+         "external_url" : "https://www.wsj.com/articles/instagram-is-turning-into-facebook-and-thats-bad-1517422670",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Katherine Bindley, writing for the WSJ:</p>\n\n<blockquote>\n  <p>I understand why Instagram is adopting Facebook features: They\nwork. But for years I logged into Instagram and enjoyed it more\nthan Facebook. I fear a day when I wake up, open my phone and can\nno longer tell the difference between the two.</p>\n</blockquote>\n\n<p>Regarding ads:</p>\n\n<blockquote>\n  <p>I can now make it through three new posts on Instagram before\nseeing an ad. After that, I get one every six to eight posts.</p>\n\n<p>Instagram’s spokeswoman confirmed ad load is up: “We’ve been able\nto do this by improving the quality and the relevance of the ads.”</p>\n</blockquote>\n\n<p>I really do enjoy using Instagram less these days, and it&#8217;s precisely for the same reasons I never signed up for Facebook. My biggest complaint is the algorithmic timeline &#8212; I truly miss the old timeline where I just saw photos from the people I follow in the order in which they were posted. I&#8217;m sure Instagram has detailed metrics showing that the new timeline increases &#8220;engagement&#8221;, but I&#8217;m equally certain that it&#8217;s led me to check the app less frequently.</p>\n\n<p>But I still don&#8217;t see ads in my Instagram feed. Literally none. This might be because I don&#8217;t have a Facebook account, or might be because my Instagram account is flagged in some sort of hidden way because of my prominence from here at Daring Fireball, or might be a bug. This has been a years-long mystery to me (that I probably shouldn&#8217;t complain about).</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.wsj.com/articles/instagram-is-turning-into-facebook-and-thats-bad-1517422670\">wsj.com/articles/instagram-is-turning-into-facebook-and</a></strong></em></p>\n"
+      },
+      {
+         "title" : "The Publisher of Newsweek and the International Business Times Has Been Buying Traffic and Engaging in Ad Fraud",
+         "date_published" : "2018-02-01T19:57:56Z",
+         "date_modified" : "2018-02-01T19:57:58Z",
+         "id" : "https://daringfireball.net/linked/2018/02/01/newsweek-ibt-ad-fraud",
+         "url" : "https://daringfireball.net/linked/2018/02/01/newsweek-ibt-ad-fraud",
+         "external_url" : "https://www.buzzfeed.com/craigsilverman/the-publisher-of-newsweek-and-the-international-business",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Speaking of good reporting from BuzzFeed, here&#8217;s a report from Craig Silverman on publications that are pretty much doing the opposite:</p>\n\n<blockquote>\n  <p>The publisher of Newsweek and the International Business Times has\nbeen engaging in fraudulent online traffic practices that helped\nit secure a major ad buy from a US government agency, according to\na new report released today by independent ad fraud researchers.</p>\n\n<p>IBTimes.com, the publisher’s US business site, last year won a\nsignificant portion of a large video and display advertising\ncampaign for the Consumer Financial Protection Bureau, a federal\nagency. Social Puncher, a consulting firm that investigates online\nad fraud, alleges in its report that the ads were displayed to an\naudience on IBTimes.com that includes a significant amount of\n“cheap junk traffic with a share of bots.”</p>\n</blockquote>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.buzzfeed.com/craigsilverman/the-publisher-of-newsweek-and-the-international-business\">buzzfeed.com/craigsilverman/the-publisher-of-newsweek-and</a></strong></em></p>\n"
+      },
+      {
+         "title" : "BuzzFeed News in Talks for Investment From Laurene Powell Jobs’s Company",
+         "date_published" : "2018-02-01T19:49:14Z",
+         "date_modified" : "2018-02-01T19:53:13Z",
+         "id" : "https://daringfireball.net/linked/2018/02/01/powell-jobs-buzzfeed",
+         "url" : "https://daringfireball.net/linked/2018/02/01/powell-jobs-buzzfeed",
+         "external_url" : "https://www.ft.com/content/3d5d892c-0778-11e8-9650-9c0ad2d7c5b5",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Matthew Garrahan and Shannon Bond, reporting for The Financial Times (paywall, alas, which you can sometimes poke through <a href=\"https://www.google.com/search?q=laurene+powell+jobs+buzzfeed&amp;source=lnms&amp;tbm=nws\">via Google News</a>):</p>\n\n<blockquote>\n  <p>The editor of BuzzFeed has had discussions with the company\nstarted by Laurene Powell Jobs, the widow of the late Steve Jobs,\nabout investing in the digital media company’s news division,\naccording to two people with knowledge of the talks.</p>\n\n<p>Discussions between Ms Powell Jobs’ company, the Emerson\nCollective, which last year took a majority stake in The Atlantic\nmagazine, and Buzzfeed’s editor, Ben Smith, are at a preliminary\nstage and people close to the talks cautioned that a deal may not\nmaterialise.</p>\n</blockquote>\n\n<p>BuzzFeed is doing great work, so I&#8217;m not surprised Powell Jobs would be interested.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.ft.com/content/3d5d892c-0778-11e8-9650-9c0ad2d7c5b5\">ft.com/content/3d5d892c-0778-11e8-9650-9c0ad2d7c5b5</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Apple in 2017: The Six Colors Report Card",
+         "date_published" : "2018-02-01T19:35:15Z",
+         "date_modified" : "2018-02-01T19:35:17Z",
+         "id" : "https://daringfireball.net/linked/2018/02/01/apple-six-colors-report-card-2017",
+         "url" : "https://daringfireball.net/linked/2018/02/01/apple-six-colors-report-card-2017",
+         "external_url" : "https://sixcolors.com/post/2018/01/apple-in-2017-the-six-colors-report-card/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Jason Snell:</p>\n\n<blockquote>\n  <p>It’s time for our annual look back on Apple’s performance during\nthe past year, as seen through the eyes of writers, editors,\ndevelopers, podcasters, and other people who spend an awful lot of\ntime thinking about Apple.</p>\n\n<p>This is the third year that I’ve presented this survey to a\nhand-selected group. They were prompted with 11 different\nApple-related subjects, and asked to rate them on a scale from 1\nto 5, as well as optionally provide text commentary on their vote.\nI received 50 replies, with the average results as shown below.</p>\n</blockquote>\n\n<p>If you&#8217;re curious why there aren&#8217;t any quotes from me, that&#8217;s because, dummy that I am, I forgot to fill out the form. But with 50 well-chosen panelists, it wouldn&#8217;t have made much difference to the consensus.</p>\n\n<p>The biggest year-over-year changes were iPad (up 0.7 on a scale of 1-5) and software quality (down 0.7). The highest rated product is the iPhone, at 4.4. Those numbers all sound about right.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://sixcolors.com/post/2018/01/apple-in-2017-the-six-colors-report-card/\">sixcolors.com/post/2018/01/apple-in-2017-the-six-colors</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Apple Confirms That HomePod Works With iCloud Music Library",
+         "date_published" : "2018-02-01T18:58:15Z",
+         "date_modified" : "2018-02-01T18:58:17Z",
+         "id" : "https://daringfireball.net/linked/2018/02/01/homepod-icloud-music-library",
+         "url" : "https://daringfireball.net/linked/2018/02/01/homepod-icloud-music-library",
+         "external_url" : "https://www.apple.com/homepod/specs/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Apple updated the specs page for HomePod, with the full list of supported audio sources:</p>\n\n<ul>\n<li>Apple Music</li>\n<li>iTunes Music Purchases</li>\n<li>iCloud Music Library with an Apple Music or iTunes Match subscription</li>\n<li>Beats 1 Live Radio</li>\n<li>Podcasts</li>\n<li>AirPlay other content to HomePod from iPhone, iPad, iPod touch, Apple TV, and Mac</li>\n</ul>\n\n<p>iCloud Music Library support was the one that left a lot of us <a href=\"https://daringfireball.net/linked/2018/01/27/caldwell-homepod-apple-music\">scratching our heads last week</a>. Good to know it&#8217;s officially supported. This means any music in your personal library is available through HomePod, even if they are tracks that aren&#8217;t available in Apple Music or the iTunes Store.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.apple.com/homepod/specs/\">apple.com/homepod/specs/</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Ken Case on The Omni Group’s 2018 Roadmap",
+         "date_published" : "2018-02-01T01:17:45Z",
+         "date_modified" : "2018-02-01T01:17:46Z",
+         "id" : "https://daringfireball.net/linked/2018/01/31/the-omni-show-ken-case",
+         "url" : "https://daringfireball.net/linked/2018/01/31/the-omni-show-ken-case",
+         "external_url" : "https://theomnishow.omnigroup.com/episode/ken-case-on-omnis-2018-roadmap",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>I really love what Brent Simmons and The Omni Group are doing with this podcast. This episode went down like a glass of ice cold water on a hot day.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://theomnishow.omnigroup.com/episode/ken-case-on-omnis-2018-roadmap\">theomnishow.omnigroup.com/episode/ken-case-on-omnis-2018</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Letter of Recommendation: Rodney Dangerfield",
+         "date_published" : "2018-01-30T19:20:52Z",
+         "date_modified" : "2018-01-30T20:45:03Z",
+         "id" : "https://daringfireball.net/linked/2018/01/30/rodney-dangerfield",
+         "url" : "https://daringfireball.net/linked/2018/01/30/rodney-dangerfield",
+         "external_url" : "https://mobile.nytimes.com/2018/01/26/magazine/letter-of-recommendation-rodney-dangerfield.html?smid=tw-share&referer=",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Alex Halberstadt, writing for The New York Times Magazine:</p>\n\n<blockquote>\n  <p>Imagine having no talent. Imagine being no good at all at something and doing it anyway. Then, after nine years, failing at it and giving it up in disgust and moving to Englewood, N.J., and selling aluminum siding. And then, years later, trying the thing again, though it wrecks your marriage, and failing again. And eventually making a meticulous study of the thing and figuring out that, by eliminating every extraneous element, you could isolate what makes it work and just do that. And then, after becoming better at it than anyone who had ever done it, realizing that maybe you didn’t need the talent. That maybe its absence was a gift.</p>\n</blockquote>\n\n<p>And here it is: <a href=\"https://www.youtube.com/watch?v=jrFgD9-l390\">Dangerfield on The Tonight Show, 1 August 1979</a>. We live in a world of miracles and wonders.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://mobile.nytimes.com/2018/01/26/magazine/letter-of-recommendation-rodney-dangerfield.html?smid=tw-share&referer=\">mobile.nytimes.com/2018/01/26/magazine/letter-of</a></strong></em></p>\n"
+      },
+      {
+         "title" : "The Sean Flynn Leica M2",
+         "date_published" : "2018-01-30T18:53:06Z",
+         "date_modified" : "2018-01-30T18:54:34Z",
+         "id" : "https://daringfireball.net/linked/2018/01/30/sean-flynn-leica",
+         "url" : "https://daringfireball.net/linked/2018/01/30/sean-flynn-leica",
+         "external_url" : "https://www.japancamerahunter.com/2018/01/camera-historica-the-sean-flynn-leica-m2/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Japan Camera Hunter:</p>\n\n<blockquote>\n  <p>This is a story about a camera, a rather special camera. Every camera has a history, so they say. But it is not all that often that one has such a rich and documented history. One that was thought to be lost but has been found again. This is the story of Sean Flynn’s Leica M2.</p>\n</blockquote>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.japancamerahunter.com/2018/01/camera-historica-the-sean-flynn-leica-m2/\">japancamerahunter.com/2018/01/camera-historica-the-sean</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Orange",
+         "date_published" : "2018-01-30T00:55:27Z",
+         "date_modified" : "2018-01-30T00:55:28Z",
+         "id" : "https://daringfireball.net/linked/2018/01/29/bongiorno-jobs",
+         "url" : "https://daringfireball.net/linked/2018/01/29/bongiorno-jobs",
+         "external_url" : "https://twitter.com/bella_bongiorno/status/957378201335971840",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Bethany Bongiorno recently left Apple after a long stint, including work on the original iPad. She tweeted some terrific stories, including this one:</p>\n\n<blockquote>\n  <p>At one point Steve wanted to turn UIKit elements orange. Not just\nany orange, he wanted a particular orange from the button on a\ncertain old Sony remote. We got a bunch of remotes from Sony with\norange buttons to try and find the right one. In the end, Steve\nhated it.</p>\n</blockquote>\n\n<p>I retweeted it with the comment that this is as Steve Jobs-y as any Steve Jobs story gets. No detail too small. Strong opinions loosely held.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://twitter.com/bella_bongiorno/status/957378201335971840\">twitter.com/bella_bongiorno/status/957378201335971840</a></strong></em></p>\n"
+      },
+      {
+         "title" : "[Sponsor] Instabug: Comprehensive Bug Reporting SDK for Mobile Apps",
+         "date_published" : "2018-01-29T19:59:14-05:00",
+         "date_modified" : "2018-01-29T19:59:15-05:00",
+         "id" : "https://daringfireball.net/feeds/sponsors/2018/01/instabug_comprehensive_bug_rep",
+         "url" : "https://daringfireball.net/feeds/sponsors/2018/01/instabug_comprehensive_bug_rep",
+         "external_url" : "https://instabug.com/df?utm_source=daringfireball&utm_medium=feed&utm_campaign=newsletter4",
+         "author" : {
+            "name" : "Daring Fireball Department of Commerce"
+         },
+         "content_html" : "\n<p>Tens of thousands of companies like Lyft, eBay, and T-Mobile rely on Instabug to iterate faster and enhance their app quality. Instabug allows mobile developers and product managers to receive detailed bug reports and feedback from their testers and users. </p>\n\n<p>With each report, Instabug attaches screenshots, screen recordings, device details and repro-steps in one organized dashboard. Also, Instabug integrates with tools like Slack, Jira, and GitHub to help your team focus on developing not debugging.</p>\n\n<p><a href=\"https://instabug.com/df?utm_source=daringfireball&amp;utm_medium=feed&amp;utm_campaign=newsletter4\">Try Instabug now for free</a> &#8212; just one line of code to integrate the SDK!</p>\n\n<p>Instabug offers a special 25% discount on all paid plans to Daring Fireball readers. Enter promo code “DARING18” to <a href=\"https://instabug.com/df?utm_source=daringfireball&amp;utm_medium=feed&amp;utm_campaign=newsletter4\">get started</a>.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://instabug.com/df?utm_source=daringfireball&utm_medium=feed&utm_campaign=newsletter4\">instabug.com/df?utm_source=daringfireball&utm_medium=feed</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Apple Released First Four HomePod Commercials",
+         "date_published" : "2018-01-29T18:15:11Z",
+         "date_modified" : "2018-01-29T18:16:43Z",
+         "id" : "https://daringfireball.net/linked/2018/01/29/homepod-commercials",
+         "url" : "https://daringfireball.net/linked/2018/01/29/homepod-commercials",
+         "external_url" : "https://www.macrumors.com/2018/01/27/apple-homepod-ads/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>The themes: music, music, music, and music.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.macrumors.com/2018/01/27/apple-homepod-ads/\">macrumors.com/2018/01/27/apple-homepod-ads/</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Shaker & Spoon",
+         "date_published" : "2018-01-29T00:26:52Z",
+         "date_modified" : "2018-01-29T00:27:03Z",
+         "id" : "https://daringfireball.net/linked/2018/01/28/shaker-and-spoon",
+         "url" : "https://daringfireball.net/linked/2018/01/28/shaker-and-spoon",
+         "external_url" : "http://shakerandspoon.com/df",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>My thanks to Shaker &amp; Spoon for sponsoring this week&#8217;s DF RSS feed. Shaker &amp; Spoon are, in my opinion, the ideal DF sponsor &#8212; they&#8217;re selling a great product targeted at people with discerning taste.</p>\n\n<p>Shaker &amp; Spoon is a subscription box that solves the toughest challenges of a home bar with great ingredients and interesting recipes. Every box is built around a different spirit, and showcases various styles of cocktail-making. Each box arrives with 3 brand-new, original recipes created by world-class bartenders, and enough ingredients (syrups, bitters, mixers, garnishes) for 12 cocktails — 4 from each recipe. It’s perfect for get-togethers and special gifts. All you need to bring is the alcohol, and the box will use up the whole bottle for all 12 drinks.</p>\n\n<p>If you love making (and drinking) cocktails and are looking to expand your repertoire, you should sign up for Shaker &amp; Spoon.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"http://shakerandspoon.com/df\">shakerandspoon.com/df</a></strong></em></p>\n"
+      },
+      {
+         "title" : "How HomePod Works With Apple Music, iTunes Match, iCloud Music Library, AirPlay, and FLAC Files",
+         "date_published" : "2018-01-28T00:30:08Z",
+         "date_modified" : "2018-01-30T16:36:37Z",
+         "id" : "https://daringfireball.net/linked/2018/01/27/caldwell-homepod-apple-music",
+         "url" : "https://daringfireball.net/linked/2018/01/27/caldwell-homepod-apple-music",
+         "external_url" : "https://m.imore.com/how-homepod-works-apple-music-itunes-match-icloud-music-library-airplay-and-flac-files",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Serenity Caldwell:</p>\n\n<blockquote>\n  <p>I&#8217;m still trying to sort a lot of this out myself, but here&#8217;s how\neverything is supposed to work, from what I&#8217;ve been able to\nconfirm.</p>\n</blockquote>\n\n<p>In addition to what she reports here, I have heard from a friend seeded with HomePod that it <em>does</em> work with tracks that are not Apple Music or purchased from the iTunes Store if you have iCloud Music Library enabled. That&#8217;s big.</p>\n\n<p><strong>Update:</strong> <a href=\"https://twitter.com/settern/status/957730736831959045\">Caldwell is hearing the same thing</a>. So strange that Apple is letting this confusion linger.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://m.imore.com/how-homepod-works-apple-music-itunes-match-icloud-music-library-airplay-and-flac-files\">m.imore.com/how-homepod-works-apple-music-itunes-match</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Logic Pro X 10.4 Release Notes",
+         "date_published" : "2018-01-27T21:23:36Z",
+         "date_modified" : "2018-01-27T21:23:38Z",
+         "id" : "https://daringfireball.net/linked/2018/01/27/logic-pro-10-point-4",
+         "url" : "https://daringfireball.net/linked/2018/01/27/logic-pro-10-point-4",
+         "external_url" : "https://support.apple.com/en-us/HT203718",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>A few thoughts:</p>\n\n<ul>\n<li>This seems like a huge release to only get a + .1 version number update. But I get it &#8212; it looks like the Logic team took this release to tackle a ton of little things that have been on their list for a long time.</li>\n<li>Wouldn&#8217;t it be amazing if we got public release notes that were this detailed for all apps from Apple?</li>\n<li>The reaction from Logic users <a href=\"https://vi-control.net/community/threads/logic-pro-x-10-4-released.68505/\">seems over the moon</a>. You don&#8217;t typically see pro users so happy with a software update.</li>\n</ul>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://support.apple.com/en-us/HT203718\">support.apple.com/en-us/HT203718</a></strong></em></p>\n"
+      },
+      {
+         "title" : "What Can HomePod Play Outside Apple Music?",
+         "date_published" : "2018-01-27T00:36:18Z",
+         "date_modified" : "2018-01-27T01:04:37Z",
+         "id" : "https://daringfireball.net/linked/2018/01/26/mayo-homepod-apple-music",
+         "url" : "https://daringfireball.net/linked/2018/01/26/mayo-homepod-apple-music",
+         "external_url" : "https://9to5mac.com/2018/01/23/homepod-can-play-purchased-itunes-music-podcasts-and-stream-beats-1-without-apple-music-subscription/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Benjamin Mayo, writing for 9to5Mac:</p>\n\n<blockquote>\n  <p>Whilst HomePod works best with an Apple Music subscription,\nallowing users to ask Siri to play any of the 40 million tracks in\nthe Apple Music catalog, it does not require a subscription to\nfunction. We have learned that the HomePod can play content\npurchased from iTunes, stream Beats 1, and listen to podcasts\nwithout needing a subscription.</p>\n\n<p>If you add music to your home iTunes library that was not acquired\nthrough a purchase, HomePod will not be able to access it. It\nappears HomePod doesn’t have Home Sharing, which would enable that\nkind of feature.</p>\n</blockquote>\n\n<p>Shouldn&#8217;t it work with iCloud Music Library? I get that it might not be able to access songs that only exist as MP3 files on your Mac, but if you have iCloud Music Library, it seems obvious that HomePod ought to be able to access them, no? It&#8217;s one thing if it doesn&#8217;t work with third-party streaming services like Spotify. But iCloud Music Library is Apple&#8217;s own thing.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://9to5mac.com/2018/01/23/homepod-can-play-purchased-itunes-music-podcasts-and-stream-beats-1-without-apple-music-subscription/\">9to5mac.com/2018/01/23/homepod-can-play-purchased-itunes</a></strong></em></p>\n"
+      },
+      {
+         "title" : "What to Do When Apple Photos Is ‘Unable to Upload Items’ to iCloud",
+         "date_published" : "2018-01-27T00:09:21Z",
+         "date_modified" : "2018-01-27T00:09:23Z",
+         "id" : "https://daringfireball.net/linked/2018/01/26/apple-photos-unable-to-upload",
+         "url" : "https://daringfireball.net/linked/2018/01/26/apple-photos-unable-to-upload",
+         "external_url" : "https://daringfireball.net/2016/02/apples_app_problem",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Adam Engst&#8217;s aforelinked piece on iCloud Photo Library problems reminded me of this piece I wrote two years ago, that might still be of use to anyone who encounters this bug:</p>\n\n<blockquote>\n  <p>I’ll offer a small personal anecdote. Overall I’ve had great\nsuccess with iCloud Photo Library. I’ve got over 18,000 photos and\nalmost 400 videos. And I’ve got a slew of devices &#8212; iPhones,\niPads, and Macs &#8212; all using the same iCloud account. And those\nphotos are available from all those devices. Except, a few weeks\nago, I noticed that on my primary Mac, in Photos, at the bottom of\nthe main “Photos” view, where it tells you exactly how many photos\nand videos you have, it said “Unable to Upload 5 Items”.\nRestarting didn’t fix it. Waiting didn’t fix it. And clicking on\nit didn’t do anything &#8212; I wanted to know which five items\ncouldn’t be uploaded, and why. It seems to me that anybody in this\nsituation would want to know those two things. But damned if\nPhotos would tell me.</p>\n\n<p>Eventually, I found <a href=\"https://discussions.apple.com/thread/7174772?start=0&amp;tstart=0\">this support thread</a> which suggested a\nsolution: you can create a Smart Group in Photos using “Unable to\nupload to iCloud Photo Library” as the matching condition. Bingo:\nfive items showed up. (Two of them were videos for which the\noriginal files couldn’t be found; three of them were duplicates of\nphotos that were already in my library.)</p>\n</blockquote>\n\n<p>I haven&#8217;t run into this problem again and am now up to 25,000 photos and just under 900 videos.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://daringfireball.net/2016/02/apples_app_problem\">daringfireball.net/2016/02/apples_app_problem</a></strong></em></p>\n"
+      },
+      {
+         "title" : "iCloud Photo Library Re-Uploading",
+         "date_published" : "2018-01-26T23:54:05Z",
+         "date_modified" : "2018-01-26T23:54:07Z",
+         "id" : "https://daringfireball.net/linked/2018/01/26/icloud-photo-library-engst",
+         "url" : "https://daringfireball.net/linked/2018/01/26/icloud-photo-library-engst",
+         "external_url" : "http://tidbits.com/article/17757",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Adam Engst, writing for TidBITS:</p>\n\n<blockquote>\n  <p>However, there’s a nasty side effect of turning iCloud off and\nback on: iCloud Photo Library needs to re-upload all your photos.\nIt does this in order to compare the library’s contents to the\nsynchronization “truth” at iCloud. Fair enough, except that this\nprocess can take days, depending on the size of your Photos\nlibrary and the speed of your Internet connection. Bad Apple! We\ndon’t see that sort of poor performance with Dropbox or Google\nDrive, and this behavior is both unnecessary and driving people\naway from iCloud Photo Library. [&#8230;]</p>\n\n<p>It’s bad enough that Photos wants to upload every photo to iCloud\nPhoto Library again, but here’s the scenario that triggered this\narticle. When I tried to turn iCloud Photo Library on again, I\nwas told that I didn’t have enough space: my 200 GB iCloud\nstorage plan had only 56 GB free, but my Photos library contained\n113 GB of photos. All that was true, except for the fact that the\nreason my iCloud account was so full was because it already held\nevery one of those photos! Every time I clicked Continue to\nacknowledge that I realized this fact, Photos turned iCloud Photo\nLibrary off again.</p>\n</blockquote>\n\n<p>This is the first of a new column at TidBITS that they&#8217;re calling &#8220;Bad Apple&#8221;, in which they plan to &#8220;dive into a particular aspect of something that Apple got wrong&#8221;. <em>Dive into</em> being the right term for why this is so good.</p>\n\n<p>iCloud Photo Library is pretty great in most regards &#8212; but it&#8217;s not good enough. But the ways it&#8217;s not good enough are often complicated and take time to describe, which is exactly what Engst has done here.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"http://tidbits.com/article/17757\">tidbits.com/article/17757</a></strong></em></p>\n"
+      },
+      {
+         "title" : "★ HomePod’s Priorities",
+         "date_published" : "2018-01-26T21:17:34Z",
+         "date_modified" : "2018-01-28T22:28:25Z",
+         "id" : "https://daringfireball.net/2018/01/homepod_priorities",
+         "url" : "https://daringfireball.net/2018/01/homepod_priorities",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>More hour-long hands-on experiences with HomePod are rolling out. <a href=\"https://techcrunch.com/2018/01/26/up-close-with-apples-homepod/\">Here&#8217;s Brian Heater, writing at TechCrunch</a>:</p>\n\n<blockquote>\n  <p>As advertised, the thing sounds great. There’s little question\nhere that the HomePod is a speaker first, smart second, bucking\nthe trend of the earliest Echo and Google Home devices. Apple’s\nengineers were able to get a lot of rich and full sound out of\nthat little footprint. The speaker is particularly adept as\nisolating vocals and maintaining often muddled aural aspects, like\nbackground singers and audience sounds in live recordings.</p>\n</blockquote>\n\n<p>The difference between HomePod and Amazon Echo isn&#8217;t that they&#8217;re in different product categories. They&#8217;re in the same category. No one other than a gadget reviewer is going to put both a HomePod and Echo in their kitchen. They&#8217;re going to have one. It is, most certainly, a competition.</p>\n\n<p>The difference is in the priorities behind the devices. All of them are meant to be audio players and useful voice-driven assistants for information, communication, and smart home control. They&#8217;re intended to be adopted fairly widely. But it makes a huge difference what order those priorities are in. HomePod&#8217;s first priority is clearly audio quality. That&#8217;s why it costs $350. Amazon has placed a higher priority on price, which is one reason why Echo doesn&#8217;t sound great.</p>\n\n<p>A lot of the knee-jerk &#8220;<em>Apple has finally lost its goddamn collective mind if they think people are going to spend $350 on a HomePod that costs three times as much as and has far fewer features than an Amazon Echo and they&#8217;re only banging the drum about sound quality because Siri has so many problems</em>&#8221; reaction is entirely from the perspective of people who agree with Amazon&#8217;s priorities regarding Alexa products. Google seems to be in more of a middle ground, offering both an Echo-ish-priced Google Home at $130 and a HomePod-ish-priced $400 Home Max (which, judging from initial reports, clearly does not sound as good as HomePod).</p>\n\n<p>Writing at Medium, I think Lance Ulanoff&#8217;s headline starts the piece off on the wrong foot: &#8220;<a href=\"https://medium.com/@LanceUlanoff/up-close-with-apple-homepod-siris-expensive-new-home-22f1ee0e682\">Up Close With Apple HomePod, Siri’s Expensive New Home</a>&#8221;. If the HomePod&#8217;s primary purpose is to serve as a home for Siri, then yes, it&#8217;s expensive. I imagine that is how Amazon&#8217;s Echo devices came to be: Amazon wanted a way to get Alexa into as many people&#8217;s homes as they could. Alexa came first, the hardware to put it in came second. With HomePod I think it&#8217;s very clear that Apple started with the question of how to create a high-quality speaker for music playback. Using Siri as the primary interface was simply a design decision. But if HomePod&#8217;s primary purpose is to sound better than products like Google Home Max and Sonos One, it is <em>not</em> expensive.</p>\n\n<p>If you&#8217;re not interested in higher-end audio quality or are mostly interested in the number of assistant features you can add to such a device, HomePod clearly isn&#8217;t for you. I don&#8217;t think that means it&#8217;s for no one, though. <a href=\"https://www.imore.com/homepod-vs-amazon-echo-vs-google-home-max-vs-sonos-one-speaker-showdown\">Serenity Caldwell&#8217;s first look for iMore</a> is the best I&#8217;ve read so far, because it&#8217;s written from the perspective of judging it for what it is, not what its competitors are.</p>\n\n\n\n    "
+      },
+      {
+         "title" : "The 12 Best Bond Watches",
+         "date_published" : "2018-01-26T18:03:14Z",
+         "date_modified" : "2018-01-26T18:55:00Z",
+         "id" : "https://daringfireball.net/linked/2018/01/26/12-best-bond-watches",
+         "url" : "https://daringfireball.net/linked/2018/01/26/12-best-bond-watches",
+         "external_url" : "http://hiconsumption.com/2018/01/best-bond-watches/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>J.D. DiGiovanni, writing for HiConsumption:</p>\n\n<blockquote>\n  <p>So why is it that some slick British spook with a specific taste\nin cocktails has managed to weather all this change?</p>\n\n<p>In part, it’s because Bond is a kind of cultural chameleon. The\ncharacter first written by Ian Fleming in his 1953 novel <em>Casino\nRoyale</em>, reflects the tastes and preferences of whatever moment he’s\nin. One of the best ways to track that change over time? By\nlooking at Bond’s wrist.</p>\n</blockquote>\n\n<p>Good list.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"http://hiconsumption.com/2018/01/best-bond-watches/\">hiconsumption.com/2018/01/best-bond-watches/</a></strong></em></p>\n"
+      },
+      {
+         "title" : "[Sponsor] Shaker & Spoon — Make Great Drinks",
+         "date_published" : "2018-01-26T14:37:26-05:00",
+         "date_modified" : "2018-01-26T14:37:29-05:00",
+         "id" : "https://daringfireball.net/feeds/sponsors/2018/01/shaker_spoon_make_great_drinks",
+         "url" : "https://daringfireball.net/feeds/sponsors/2018/01/shaker_spoon_make_great_drinks",
+         "external_url" : "http://shakerandspoon.com/df",
+         "author" : {
+            "name" : "Daring Fireball Department of Commerce"
+         },
+         "content_html" : "\n<p>Want to make craft cocktails at home? Shaker &amp; Spoon is a subscription box that solves the toughest challenges of a home bar with great ingredients and interesting recipes. Every box is built around a different spirit, and showcases various styles of cocktail-making. It arrives with 3 brand-new, original recipes created by world-class bartenders, and enough ingredients (syrups, bitters, mixers, garnishes) for 12 cocktails — 4 from each recipe. It’s perfect for get-togethers and special gifts. All you need to bring is the alcohol, and the box will use up the whole bottle for all 12 drinks!</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"http://shakerandspoon.com/df\">shakerandspoon.com/df</a></strong></em></p>\n"
+      },
+      {
+         "title" : "The Talk Show: ‘Arbiter of Finallys’",
+         "date_published" : "2018-01-26T02:16:34Z",
+         "date_modified" : "2018-01-26T02:16:36Z",
+         "id" : "https://daringfireball.net/linked/2018/01/25/the-talk-show-212",
+         "url" : "https://daringfireball.net/linked/2018/01/25/the-talk-show-212",
+         "external_url" : "https://daringfireball.net/thetalkshow/2018/01/25/ep-212",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Special guest Rene Ritchie returns to the show to talk about HomePod, clickbait, the Spectre/Meltdown security exploits, and a look back at Apple’s 2017 in review.</p>\n\n<p>Brought to you by these fine sponsors:</p>\n\n<ul>\n<li><a href=\"https://squarespace.com/\">Squarespace</a>: Make your next move. Use code <strong>talkshow</strong> for 10% off your first order.</li>\n<li><a href=\"https://casper.com/thetalkshow\">Casper</a>: You can be sure of your purchase with Casper’s 100-night risk-free, sleep-on-it trial.</li>\n<li><a href=\"https://awaytravel.com/talkshow\">Away</a>: Travel smarter with the suitcase that charges your phone. Save $20 with code <strong>talkshow</strong>.</li>\n</ul>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://daringfireball.net/thetalkshow/2018/01/25/ep-212\">daringfireball.net/thetalkshow/2018/01/25/ep-212</a></strong></em></p>\n"
+      },
+      {
+         "title" : "★ Apple Previews iOS 11.3",
+         "date_published" : "2018-01-26T01:41:50Z",
+         "date_modified" : "2018-01-26T18:06:53Z",
+         "id" : "https://daringfireball.net/2018/01/ios_11_point_3",
+         "url" : "https://daringfireball.net/2018/01/ios_11_point_3",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p><a href=\"https://www.apple.com/newsroom/2018/01/apple-previews-ios-11-3/\">Apple Newsroom on what&#8217;s new in the upcoming iOS 11.3</a>:</p>\n\n<blockquote>\n  <p>Business Chat is a new way for users to communicate directly with\nbusinesses right within Messages. This feature will launch in\nBeta with the public availability of iOS 11.3 this spring, with\nthe support of select businesses including Discover, Hilton,\nLowe’s and Wells Fargo. With Business Chat, it&#8217;s easy to have a\nconversation with a service representative, schedule an\nappointment or make purchases using Apple Pay in the Messages\napp. Business Chat doesn’t share the user’s contact information\nwith businesses and gives users the ability to stop chatting at\nany time.</p>\n</blockquote>\n\n<p>iMessage is one of Apple&#8217;s most underestimated assets. If iMessage were a startup, with exactly the same users, usage (a.k.a. &#8220;engagement&#8221;), and features, it could be worth <a href=\"https://techcrunch.com/2015/02/19/crazy-like-a-facebook-fox/\">tens of billions of dollars</a>. But because it&#8217;s <em>not</em> a startup, Apple is under no pressure to monetize the service in ways that annoy users.</p>\n\n<p>On the battery front:</p>\n\n<blockquote>\n  <p>Additionally, users can now see if the power management feature\nthat dynamically manages maximum performance to prevent unexpected\nshutdowns, first introduced in iOS 10.2.1, is on and can choose to\nturn it off. This feature can be found in Settings &#8594; Battery and\nis available for iPhone 6, iPhone 6 Plus, iPhone SE, iPhone 6s,\niPhone 6s Plus, iPhone 7 and iPhone 7 Plus.</p>\n</blockquote>\n\n<p>Being able to disable dynamic performance throttling is new &#8212; if I recall correctly, all Apple had promised last month was that iOS would soon <em>show</em> more information about your battery. [<strong>Update:</strong> The first mention of a switch to control this behavior was <a href=\"http://abcnews.go.com/Business/apple-make-350b-contribution-us-economy-years/story?id=52405662\">in this interview Tim Cook gave to ABC News last week</a>.]</p>\n\n<p>Health:</p>\n\n<blockquote>\n  <p>The new Health Records feature brings together hospitals, clinics\nand the existing Health app to make it easy for consumers to see\ntheir available medical data from multiple providers, whenever\nthey choose. Patients from participating medical institutions will\nhave information from various institutions organized into one view\nand receive regular notifications for their lab results,\nmedications, conditions and more. Health Records data is encrypted\nand protected with a passcode.</p>\n</blockquote>\n\n<p>This could be pretty awesome if it&#8217;s adopted widely by medical professionals. Apple has more information about the program <a href=\"https://www.apple.com/newsroom/2018/01/apple-announces-effortless-solution-bringing-health-records-to-iPhone/\">in a separate announcement</a>.</p>\n\n<p>Music:</p>\n\n<blockquote>\n  <p>Apple Music will soon be the home for music videos. Users can\nstream all the music videos they want without being\ninterrupted by ads.</p>\n</blockquote>\n\n<p>Gee, I wonder what video platform that&#8217;s a reference to?</p>\n\n<p>This whole 11.3 announcement is interesting. Some of these features &#8212; like Business Chat &#8212; are things I might have expected they&#8217;d hold for iOS 12. It&#8217;s almost like Apple held a little mini-WWDC over the last two days via Newsroom posts.</p>\n\n\n\n    "
+      },
+      {
+         "title" : "Joanna Stern’s Guide to iCloud Storage",
+         "date_published" : "2018-01-26T01:41:03Z",
+         "date_modified" : "2018-01-26T02:55:51Z",
+         "id" : "https://daringfireball.net/linked/2018/01/25/stern-icloud-storage",
+         "url" : "https://daringfireball.net/linked/2018/01/25/stern-icloud-storage",
+         "external_url" : "https://www.wsj.com/articles/icloud-storage-your-guide-to-the-other-apple-tax-1516820540",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Speaking of iCloud storage limits, Joanna Stern&#8217;s column (and clever video) this week is devoted to iCloud&#8217;s storage limits:</p>\n\n<blockquote>\n  <p>Here’s the big catch, though: Apple offers only 5 gigabytes of\nfree iCloud storage space. That’s like offering a Siberian tiger a\nTic Tac for dinner. With the amount of photos and videos we take\ntoday, it’s not enough. For a company with about $270 billion in\nthe bank, I’d expect it to at least match Google’s 15GB of free\ncloud storage &#8212; or beat it. Do I hear 20GB?</p>\n</blockquote>\n\n<p>5 GB seems ridiculous when the company is selling $999 iPhones with 64 GB of storage.</p>\n\n<p>Think about it. Everyone should back up their phones. The best way to back up your iPhone — and the way Apple wants you to do it — is through iCloud. But 5 GB isn’t enough for most people, so they get these warning messages, which sound scary and which they don’t understand.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.wsj.com/articles/icloud-storage-your-guide-to-the-other-apple-tax-1516820540\">wsj.com/articles/icloud-storage-your-guide-to-the-other</a></strong></em></p>\n"
+      },
+      {
+         "title" : "FilmGrab: ‘The Empire Strikes Back’",
+         "date_published" : "2018-01-26T01:17:03Z",
+         "date_modified" : "2018-01-26T01:17:05Z",
+         "id" : "https://daringfireball.net/linked/2018/01/25/filmgrab-the-empire-strikes-back",
+         "url" : "https://daringfireball.net/linked/2018/01/25/filmgrab-the-empire-strikes-back",
+         "external_url" : "https://film-grab.com/2014/07/21/the-empire-strikes-back/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Zoom this one to full-screen.</p>\n\n<p>I sing the praises of <em>The Empire Strikes Back</em> frequently. It&#8217;s both one of my personal favorite films to watch, and, I think, one of the best films ever made. The music, the story, the pacing, the acting, the casting &#8212; there is so much to love about <em>Empire</em>. I sometimes forget just how beautiful a film it is. Most of these stills are just gorgeous.</p>\n\n<p>(Thanks to DF reader Ben Johncock for the link.)</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://film-grab.com/2014/07/21/the-empire-strikes-back/\">film-grab.com/2014/07/21/the-empire-strikes-back/</a></strong></em></p>\n"
+      },
+      {
+         "title" : "iCloud Messages Returns to iOS in First Beta of iOS 11.3",
+         "date_published" : "2018-01-26T01:13:02Z",
+         "date_modified" : "2018-01-26T01:33:42Z",
+         "id" : "https://daringfireball.net/linked/2018/01/25/icloud-messages",
+         "url" : "https://daringfireball.net/linked/2018/01/25/icloud-messages",
+         "external_url" : "https://www.macrumors.com/2018/01/24/icloud-messages-available-in-ios-11-3/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Juli Clover, writing for MacRumors:</p>\n\n<blockquote>\n  <p>As of iOS 11.3, Messages in iCloud is back and is available for\n&#8220;testing and evaluation purposes,&#8221; marking the official return of\nthe feature. According to Apple&#8217;s release notes, once iOS 11.3\nbeta 1 is installed, Messages will prompt users to turn on\nMessages in the Cloud when it is first launched.</p>\n\n<p>Messages in the Cloud is automatically enabled for users who have\ntwo-factor authentication and iCloud Backup enabled, says Apple.</p>\n</blockquote>\n\n<p>One of the advantages with Messages on iCloud is that, if you want to keep your old messages around, they won&#8217;t be taking up space on your devices, and they&#8217;ll only count once against your iCloud storage limit (as opposed to now, where old messages are stored in the backups of each device you use).</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.macrumors.com/2018/01/24/icloud-messages-available-in-ios-11-3/\">macrumors.com/2018/01/24/icloud-messages-available-in-ios</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Google Adds Controls to Dial Back Ad Tracking",
+         "date_published" : "2018-01-25T23:17:34Z",
+         "date_modified" : "2018-01-25T23:17:36Z",
+         "id" : "https://daringfireball.net/linked/2018/01/25/google-ad-tracking-controls",
+         "url" : "https://daringfireball.net/linked/2018/01/25/google-ad-tracking-controls",
+         "external_url" : "https://www.blog.google/topics/safety-security/greater-control-new-features-your-ads-settings/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Jon Krafcik, group product manager for data privacy and transparency at Google:</p>\n\n<blockquote>\n  <p>Let’s say you’ve walked through one too many puddles of icy slush\nthis winter, and you finally need to replace your snow boots.</p>\n\n<p>You visit Snow Boot Co.’s website, add a pair of boots to your\nshopping cart, but you don’t buy them because you want to keep\nlooking around. The next time that you’re shopping online, Snow\nBoot Co. might show you ads that encourage you to come back to\ntheir site and buy those boots.</p>\n\n<p>Reminder ads like these can be useful, but if you aren’t shopping\nfor Snow Boot Co.’s boots anymore, then you don’t need a reminder\nabout them. A new control within Ads Settings will enable you to\nmute Snow Boot Co.’s reminder ads. Today, we’re rolling out the\nability to mute the reminder ads in apps and on websites that\npartner with us to show ads.</p>\n</blockquote>\n\n<p>Krafcik can&#8217;t come out and say it, but the problem with ads that track you like this isn&#8217;t that they may not be useful, but that they&#8217;re creepy AF, as the kids would say. Exposing controls to mute them is better than nothing, but it&#8217;s sort of like being able to tell someone who is following you around to stop talking to you, but they&#8217;re still going to follow you around.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.blog.google/topics/safety-security/greater-control-new-features-your-ads-settings/\">blog.google/topics/safety-security/greater-control-new</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Farrago 1.0",
+         "date_published" : "2018-01-25T22:47:46Z",
+         "date_modified" : "2018-01-25T22:47:47Z",
+         "id" : "https://daringfireball.net/linked/2018/01/25/farrago",
+         "url" : "https://daringfireball.net/linked/2018/01/25/farrago",
+         "external_url" : "https://rogueamoeba.com/farrago/?playmovie",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>New app from Rogue Amoeba:</p>\n\n<blockquote>\n  <p>Farrago provides the best way to quickly play sound bites, audio\neffects, and music clips on your Mac. Podcasters can use Farrago\nto include musical accompaniment and sound effects during\nrecording sessions, while theater techs can run the audio for live\nshows. Whether it&#8217;s providing quick access to a large library of\nsounds or running through a defined list of audio, Farrago is\nready to assist!</p>\n</blockquote>\n\n<p>Looks like a brilliant design &#8212; easy to understand, convenient to use, attractive &#8212; and it has one of the best intro videos I&#8217;ve ever seen. Even if you have no need for a soundboard app, it&#8217;s worth checking out for the video alone.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://rogueamoeba.com/farrago/?playmovie\">rogueamoeba.com/farrago/?playmovie</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Three Short Films From Three Emerging LA Filmmakers",
+         "date_published" : "2018-01-25T22:37:33Z",
+         "date_modified" : "2018-01-25T22:37:35Z",
+         "id" : "https://daringfireball.net/linked/2018/01/25/three-short-films",
+         "url" : "https://daringfireball.net/linked/2018/01/25/three-short-films",
+         "external_url" : "https://www.apple.com/newsroom/2018/01/emerging-la-filmmakers-create-short-films-with-small-budgets-and-big-ideas/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>James Hughes, in a feature for Apple Newsroom:</p>\n\n<blockquote>\n  <p>In Los Angeles on a Saturday morning in November, a crew of 10\nstudents from Hollywood High School, helmed by 17-year-old\ndirector Celine Gimpirea, are transforming a corner of the Calvary\nCemetery into a movie set. In <a href=\"https://youtu.be/7WX-0D09sVM\"><em>The\nBox</em></a>, a boy slips inside a\ncardboard box and finds himself transported to other realms. On\nthis well-manicured, impossibly green lawn, among rows of flat,\nblack granite grave-markers, are rows of flat, black camera cases\nholding DIT stations, iPads and MacBook Pros &#8212; the tools that\nwill bring the story to life.</p>\n\n<p>Gimpirea’s is one of three teams of filmmakers involved in a\nmonth-long filmmaking workshop connecting creative professionals\nwith emerging talent. The teams worked with powerful tools from\nApple, including the MacBook Pro, iMac and Final Cut Pro X, as\nwell as the RED Raven camera for shooting, and worked alongside\nApple Retail experts and industry pros. LA-based independent\nfilmmaking collective <a href=\"https://www.wemakemovies.org/\">We Make Movies</a> provided\npost-production supervision to help the filmmakers realize their\nvisions.</p>\n</blockquote>\n\n<p>I&#8217;m blown away that Gimpirea is just 17 years old. It&#8217;s a really fun little film. The other two films &#8212; Krista Amigone&#8217;s <a href=\"https://youtu.be/9_Gs18NLFPY\"><em>The Dancer</em></a> and the documentary <a href=\"https://youtu.be/q9ttZ3TdJEk\"><em>La Buena Muerte</em></a> &#8212; are good too. Apple&#8217;s involvement in this project is so very Apple.</p>\n\n<p>(Also good to see: a byline credit on an Apple Newsroom feature. That&#8217;s new.)</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.apple.com/newsroom/2018/01/emerging-la-filmmakers-create-short-films-with-small-budgets-and-big-ideas/\">apple.com/newsroom/2018/01/emerging-la-filmmakers-create</a></strong></em></p>\n"
+      },
+      {
+         "title" : "One Hour With HomePod",
+         "date_published" : "2018-01-25T21:34:01Z",
+         "date_modified" : "2018-01-25T21:34:03Z",
+         "id" : "https://daringfireball.net/linked/2018/01/25/one-hour-with-homepod",
+         "url" : "https://daringfireball.net/linked/2018/01/25/one-hour-with-homepod",
+         "external_url" : "http://www.refinery29.com/2018/01/188840/apple-homepod-speaker-quality",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Madeline Buxton, writing for Refinery29 after getting an hour of hands-on time with HomePod:</p>\n\n<blockquote>\n  <p>Aesthetic, however, is only a very small part of the puzzle and\none you&#8217;d expect Apple to excel at. Fortunately, HomePod also\ndelivers where it counts: The sound. When I listened to the\nspeaker next to Google Home Max, the latest Amazon Echo, and Sonos\nOne, the vocals were consistently crisper and clearer on HomePod.\nThe pluck of guitar strings pops, and bass notes have the robust\nthump-thump you want from them.</p>\n</blockquote>\n\n<p>Interesting that Apple included Google Home Max in the comparisons. Back at WWDC in June, they only compared it against an Echo and a Sonos.</p>\n\n<p>Regarding the limits of how HomePod works with multiple users:</p>\n\n<blockquote>\n  <p>Secondly, although everyone in your apartment will be able to use\nthe speaker, only the person who sets up HomePod on their iCloud\naccount will be able to send texts, set up reminders, and add\nnotes via voice commands. Google Home and Amazon Echo, meanwhile,\ncan recognize different voices and provide personalized content\naccordingly. (If you do set up personal notifications on HomePod,\nthese will only be available when you are on the network, so you\ndon&#8217;t need to worry about your texts being read aloud at home when\nyou are at work. If you don&#8217;t want them read aloud when you&#8217;re\nhome, you can go into your HomeKit settings and turn off the\nnotifications.)</p>\n</blockquote>\n\n<p>I hope (and would expect) that full support for multiple users is on the drawing board, but simply didn&#8217;t make the cut for 1.0.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"http://www.refinery29.com/2018/01/188840/apple-homepod-speaker-quality\">refinery29.com/2018/01/188840/apple-homepod-speaker-quality</a></strong></em></p>\n"
+      },
+      {
+         "title" : "CNN Is Closing Down Beme, Casey Neistat’s Video Company",
+         "date_published" : "2018-01-25T19:24:59Z",
+         "date_modified" : "2018-01-25T19:25:02Z",
+         "id" : "https://daringfireball.net/linked/2018/01/25/neistat-cnn",
+         "url" : "https://daringfireball.net/linked/2018/01/25/neistat-cnn",
+         "external_url" : "https://www.buzzfeed.com/stevenperlberg/cnn-is-closing-down-beme-youtube-star-casey-neistats-video?utm_term=.conVP195Y#.bxLEbOJkP",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Steven Perlberg, reporting for BuzzFeed:</p>\n\n<blockquote>\n  <p>In an interview with BuzzFeed News, Neistat spoke candidly about\nhis inability to figure out a viable strategy for “Beme News,”\nwhich CNN had intended to become a central part of its digital\nbusiness. Instead, Neistat said he slowly, and frustratingly,\ndistanced himself from his own company, retreating into what he\nknew best &#8212; producing videos for his personal YouTube channel.</p>\n\n<p>“I couldn’t find answers. I would sort of disappear, and I would\nhide, and I would make YouTube videos for my channel because at\nleast I would be able yield something,” Neistat said. “I don’t\nthink I’m giving CNN what I want to give them, and I don’t think\nthey’re getting value from me.”</p>\n</blockquote>\n\n<p>That is one of the most honest answers to a difficult question that I&#8217;ve heard in a long time.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.buzzfeed.com/stevenperlberg/cnn-is-closing-down-beme-youtube-star-casey-neistats-video?utm_term=.conVP195Y#.bxLEbOJkP\">buzzfeed.com/stevenperlberg/cnn-is-closing-down-beme</a></strong></em></p>\n"
+      },
+      {
+         "title" : "How to Write",
+         "date_published" : "2018-01-25T00:53:42Z",
+         "date_modified" : "2018-01-25T08:50:10Z",
+         "id" : "https://daringfireball.net/linked/2018/01/24/how-to-write",
+         "url" : "https://daringfireball.net/linked/2018/01/24/how-to-write",
+         "external_url" : "http://randsinrepose.com/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Michael Lopp:</p>\n\n<blockquote>\n  <p>Wait for time to pass and see if the bumping sound returns. Reread\nwhat you’ve written so far and find if it inspires you. Yes? Write\nas much as you can. No? Stop writing and wait for more bumping.</p>\n\n<p>Repeat until it starts to feel done in your head. If it’s\nhandwritten, type it into a computing device. When you are close\nto done, print it out on paper. Sit somewhere else with your\nfavorite pen and edit your work harshly.</p>\n</blockquote>\n\n<p>His title is &#8220;How to Write a Blog Post&#8221;, but I&#8217;d call it &#8220;How to Write&#8221;, full stop. When I&#8217;m serious about a piece, it always goes to paper at least once. I spent more time on <a href=\"https://daringfireball.net/2017/12/the_iphone_x\">my iPhone X review</a> than anything I&#8217;ve written in years, and it went to paper twice. (<a href=\"https://www.dropbox.com/s/un5a0ca7d923rjk/iPhone%20X%20Review%20%E2%80%94%20Draft%202.pdf?dl=0\">Here</a>&#8217;s a scan of my second printed draft, with handwritten revisions.) My thing is that I <em>don&#8217;t</em> use <a href=\"https://www.jetpens.com/blog/zebra-sarasa-a-comprehensive-guide/pt/652\">my favorite pen</a> &#8212; which, of course, has black ink &#8212; but instead <a href=\"https://www.amazon.com/Pilot-Precise-Roller-Precision-35336/dp/B001GAOTUK/\">a pen</a> with red ink. Editing is an angry, bloody act and therefore must be done in red.</p>\n\n<p>There&#8217;s nothing magic about printing on paper and editing with a pen. To me it&#8217;s all about changing context, putting my brain in an at least slightly different mode. That&#8217;s why I love Lopp&#8217;s imperative to &#8220;Sit in a different place&#8221; &#8212; you need to see your own words in a different light.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"http://randsinrepose.com/\">randsinrepose.com/</a></strong></em></p>\n"
+      },
+      {
+         "title" : "‘Nobody Is Going to Buy It’",
+         "date_published" : "2018-01-24T20:43:48Z",
+         "date_modified" : "2018-01-24T20:43:50Z",
+         "id" : "https://daringfireball.net/linked/2018/01/24/boris-schlossberg-claim-chowder",
+         "url" : "https://daringfireball.net/linked/2018/01/24/boris-schlossberg-claim-chowder",
+         "external_url" : "https://www.cnbc.com/2018/01/24/apple-skeptic-says-company-in-trouble-ahead-of-homepod-launch.html",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Keris Lahiff, writing for CNBC:</p>\n\n<blockquote>\n  <p>Fiercer competition and an inflated belief in its own products are\namong some of the challenges facing the world&#8217;s largest company,\naccording to BK Asset Management&#8217;s Boris Schlossberg.</p>\n\n<p>&#8220;I do think they&#8217;re in trouble. I think they&#8217;re making a huge\nmistake,&#8221; Schlossberg, managing director of FX strategy, told\nCNBC&#8217;s &#8220;Trading Nation&#8221; on Tuesday. &#8220;They&#8217;re basically betting on\nthe fact that high expensive products can be sold at this point\nand it&#8217;s clearly becoming evident that everybody has caught up to\nthem in the marketplace.&#8221;</p>\n\n<p>Schlossberg&#8217;s concerns over Apple pricing resurfaced ahead of the\nlaunch of its Siri-connected artificial-intelligence home device,\nthe HomePod. With a $349 price tag, its latest product is far more\nexpensive than its major competitors, including Amazon&#8217;s\nAlexa-equipped Echo or Google&#8217;s Home Mini.</p>\n\n<p>&#8220;Nobody is going to buy it at the price that they&#8217;re putting it\nout right now because the functionality of those products is just\nnowhere near as great as it needs to be relative to the price\ndifference,&#8221; said Schlossberg.</p>\n</blockquote>\n\n<p>Noted for future claim chowder.</p>\n\n<p>HomePod is one of the most interesting new Apple products in years, insofar as I really don&#8217;t know how it&#8217;s going to sell. If most people see it as a direct competitor to Amazon Echos and Google Home dinguses, HomePod might be in trouble, because it&#8217;s a lot more expensive and has fewer features. But Apple has been positioning it as, first and foremost, a high-quality music player. The Siri-as-personal-assistant/smart-home-controller is secondary to audio quality. If there&#8217;s a market for that, HomePod could clean up. $350 is a <em>low</em> price in the audio world.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.cnbc.com/2018/01/24/apple-skeptic-says-company-in-trouble-ahead-of-homepod-launch.html\">cnbc.com/2018/01/24/apple-skeptic-says-company-in-trouble</a></strong></em></p>\n"
+      },
+      {
+         "title" : "★ The Scourge of Clickbait",
+         "date_published" : "2018-01-23T21:35:09Z",
+         "date_modified" : "2018-01-23T21:35:11Z",
+         "id" : "https://daringfireball.net/2018/01/the_scourge_of_clickbait",
+         "url" : "https://daringfireball.net/2018/01/the_scourge_of_clickbait",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>True story: we have a contractor who’s been doing work on our house, on and off, for the past few months. Great guy &#8212; gregarious, honest, good at his work. He has a rough idea of what I do. (“Sort of like a sports columnist but for Apple and design stuff” is my usual answer). He broke his iPhone (a bad drop, took it to a third-party repair center, made worse) a few weeks ago and has since then been getting by with an old Android phone that he despises. I knew something happened when his texts turned green, but he&#8217;s the one who brought it up in conversation. He&#8217;s on the fence between buying an iPhone 8 Plus and iPhone X. I’ve been fascinated by his dilemma. It seems to me that if Apple had <em>only</em> released one or the other, he’d have already bought a new one weeks ago. (My advice, because of course he asked and I was glad to answer, however unhelpfully: &#8220;I really love the X but whether you&#8217;d find it worth an extra $200, I can&#8217;t say. You should go talk to the folks at the Apple Store, they&#8217;re good at this, and because they don&#8217;t work on commission, they don&#8217;t just blindly tell everyone to get the most expensive phone.&#8221;) I’ve long been a proponent of the notion that in almost all decisions, there’s the implicit option to choose nothing at all, and the harder a decision is to make, the more likely it is that someone will choose nothing, out of indecision and/or confusion. It&#8217;s the job of designers to make decisions easier, or many times, to make decisions for the user. I&#8217;m not at all saying it was a mistake for Apple to release the iPhones 8 and iPhone X at the same time &#8212; the crux of <a href=\"https://daringfireball.net/2017/12/the_iphone_x\">my iPhone X review</a> is that the familiarity of the iPhone 8 and 8 Plus is what freed Apple to change fundamental aspects of the iPhone experience with the iPhone X &#8212; but it really does seem like the choice is difficult for many people.</p>\n\n<p>Anyway, he was here today, and asked me “Hey, what’s up with this thing I saw yesterday that Apple is <em>cancelling</em> the iPhone X? Is that for real?&#8221;<sup id=\"fnr1-2018-01-23\"><a href=\"#fn1-2018-01-23\">1</a></sup></p>\n\n<div class=\"footnotes\">\n<hr />\n<ol>\n<li id=\"fn1-2018-01-23\">\n<p>He pronounced it <em>ex</em>, <a href=\"https://daringfireball.net/2017/09/x_man\">of course</a>.&nbsp;<a href=\"#fnr1-2018-01-23\"  class=\"footnoteBackLink\"  title=\"Jump back to footnote 1 in the text.\">&#x21A9;&#xFE0E;</a></p>\n</li>\n</ol>\n</div>\n\n\n\n    "
+      },
+      {
+         "title" : "★ On Rumors of the iPhone X Being Produced for Only One Year",
+         "date_published" : "2018-01-22T22:16:17Z",
+         "date_modified" : "2018-01-23T05:15:48Z",
+         "id" : "https://daringfireball.net/2018/01/iphone_x_one_year",
+         "url" : "https://daringfireball.net/2018/01/iphone_x_one_year",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Mike Wuerthele, writing for AppleInsider (headline: &#8220;<a href=\"http://appleinsider.com/articles/18/01/19/if-iphone-x-demand-is-less-than-expected-analyst-expects-it-to-be-end-of-life-when-replacements-ship\">If iPhone X Demand Is Less Than Expected, Analyst Expects It to Be &#8216;End of Life&#8217; When Replacements Ship</a>&#8221;):</p>\n\n<blockquote>\n  <p>In a research note seen by AppleInsider, KGI securities believes\nthat Apple will ship around 18 million of the iPhone X in the\nfirst calendar quarter of 2018. Contrary to other predictions\nbased on the supply chain, KGI says that the iPhone X has not been\nas impactful in China as predicted because of the notch holding\nthe sensors for the device, giving consumers the impression that\nthere is less usable space than on the iPhone 8 Plus.</p>\n\n<p>KGI also expects a trio of iPhone models in the fall of 2018. He\npredicts the iPhone X will be &#8220;end of life&#8221; in the summer of 2018,\ninstead of being retained as a lower-cost option in the following\nyear. If this is the case, it would be the first time that Apple\nhas not retained the previous year&#8217;s model to allow for a wide\nrange of iPhones available at many price points.</p>\n</blockquote>\n\n<p>This would <em>not</em> be the first time an iPhone flagship model didn&#8217;t stick around for a second year. <a href=\"http://appleinsider.com/articles/18/01/19/if-iphone-x-demand-is-less-than-expected-analyst-expects-it-to-be-end-of-life-when-replacements-ship\">In 2013, Apple introduced the iPhone 5S</a> to replace the iPhone 5, and also introduced the iPhone 5C to occupy the second pricing tier. The iPhone 5 was dropped from the product line when the 5S and 5C debuted.<sup id=\"fnr1-2018-01-22\"><a href=\"#fn1-2018-01-22\">1</a></sup></p>\n\n<p>That had nothing to do with the iPhone 5 being unpopular. I think Apple simply wanted a clear distinction between the top-tier and second-tier models. If this rumor is true about this year&#8217;s upcoming new lineup &#8212; <em>if</em> &#8212; I think the exact same logic stands. I think it&#8217;s also the case that it&#8217;s not just about what the iPhone X looks like, but how difficult (and therefore expensive) it is to produce &#8212; the OLED displays in particular. (That almost certainly also factored into the decision to use the plastic-bodied iPhone 5C as the second-tier model, rather than keep the iPhone 5 around for a second year: the iPhone 5 was the first unibody aluminum phone, and <a href=\"https://www.extremetech.com/computing/137707-apples-market-value-drops-60-billion-following-iphone-5-scuff-quality-control-issues\">it was reportedly difficult to produce</a>.)</p>\n\n<p>It&#8217;s interesting news that the iPhone X might only be around for one year, to be sure (again, if true), but it&#8217;s not surprising in the least, and it&#8217;s of interest only for us obsessives who follow such things closely. Throw in some poor reading comprehension skills and sensationalist mendacity, though, and you get Anthony Cuthbertson&#8217;s report for the publication that today operates under the once-respected name Newsweek (headline: &#8220;<a href=\"http://www.newsweek.com/apple-about-cancel-iphone-x-poor-sales-mean-device-faces-end-life-786430\">Is Apple About to Cancel the iPhone X? Poor Sales Mean Device Faces &#8216;End of Life&#8217;</a>&#8221;):</p>\n\n<blockquote>\n  <p>When Apple CEO Tim Cook unveiled the iPhone X last September, he\nsaid the $999 device would “set the path of technology for the\nnext decade.” But while its technological credentials may not be\nin question, a poor reception for Apple’s most expensive iPhone\nmay mean it is forced to step off that path within a year of going\non sale.</p>\n\n<p>Rumors stemming from Apple analysts suggest that a reduction in\norders means iPhone X production may cease as early as this\nsummer, which would be the first time Apple has discontinued an\niPhone before unveiling a new model.</p>\n\n<p>A research note by analysts at KGI Securities, <a href=\"http://appleinsider.com/articles/18/01/19/if-iphone-x-demand-is-less-than-expected-analyst-expects-it-to-be-end-of-life-when-replacements-ship\">seen by Apple news\nsite AppleInsider</a>, estimated iPhone X shipments in the first\nquarter of 2018 were at around 18 million devices &#8212; a significant\nreduction on previous flagship iPhones.</p>\n</blockquote>\n\n<p>Cuthbertson&#8217;s only source is AppleInsider&#8217;s summary of Ming-Chi Kuo&#8217;s report &#8212; and he&#8217;s drawing conclusions that simply weren&#8217;t in the original. Cuthbertson is laying out a scenario where Apple stops selling the iPhone X this summer, months before new models are announced in September. That would indeed be a sensational &#8212; downright humiliating &#8212; setback for Apple. But there&#8217;s no way that&#8217;s going to happen, and it&#8217;s also not what AppleInsider says Kuo expects. What Kuo said is that Apple might stop producing new iPhone X units once they&#8217;ve made enough to keep shelves stocked until September. Kuo does suggest that this might be because sales of the iPhone X are disappointing (particularly in China), but Kuo&#8217;s record is only good regarding <em>what</em> is going on in Apple&#8217;s Asian supply chain, not <em>why</em>. If Kuo is correct that the iPhone X will be dropped from next year&#8217;s iPhone lineup, I don&#8217;t think the reason has anything to do with how well it sold.</p>\n\n<p>Also, even if it&#8217;s true that Apple will &#8220;only&#8221; sell 18 million iPhone X units in the first calendar quarter of 2018, you have to put that in context with the fact that the iPhone X debuted alongside the iPhone 8 and 8 Plus, which had the features, design, and prices of what in any previous year would have been <em>the</em> top-tier new iPhones.</p>\n\n<p>Everything about Cuthbertson&#8217;s report &#8212; starting with that fucking headline,<sup id=\"fnr2-2018-01-22\"><a href=\"#fn2-2018-01-22\">2</a></sup> which arguably is all that matters for a publication like today&#8217;s Newsweek, which is, I would bet, hopelessly dependent upon social media traffic and utterly disdainful of the notion of building up a wellspring of trust with a devoted readership &#8212; seems written to paint a picture of the iPhone X being a sales failure, facts be damned, and nothing about it &#8212; not a single sentence &#8212; seems geared toward giving the reader an accurate, genuine understanding of what&#8217;s actually going on with sales of the current iPhone lineup.</p>\n\n<p>And don&#8217;t even get me started about the dreck that is <a href=\"https://duckduckgo.com/?q=macalope+gordon+kelly\">well-known-dipstick</a> Forbes &#8220;<a href=\"https://www.theinternetpatrol.com/huffington-post-shuts-down-100000-strong-contributor-network-without-warning/\">contributor</a>&#8221; Gordon Kelly&#8217;s jacktastically headlined piece, &#8220;<a href=\"https://www.forbes.com/sites/gordonkelly/2018/01/21/apple-iphone-x-buy-sales-specs-new-iphone-release-date/#2f599c5e10cb\">Apple Leak Reveals Sudden iPhone X Cancellation</a>&#8221;. This piece isn&#8217;t even up to Forbes&#8217;s usual standard of at least <a href=\"http://www.motherjones.com/politics/2018/01/stormy-daniels-once-claimed-she-spanked-donald-trump-with-a-forbes-magazine/\">being worth rolling up and using as a sex toy</a> on short-fingered vulgarians.</p>\n\n<div class=\"footnotes\">\n<hr />\n<ol>\n\n<li id=\"fn1-2018-01-22\">\n<p>The original iPhone should count, too. When the iPhone 3G debuted, Apple stopped selling the original iPhone. In fact, the more I think about it, the more it feels like it&#8217;s fair to say that the norm is for radically new iPhone form factors <em>not</em> to remain in the lineup at a lower price the next year. To my mind, the new iPhones that qualify as &#8220;radically new form factors&#8221; are: the original iPhone in 2007 (of course), the iPhone 4 in 2010 (first retina display, glass back, external antenna), the iPhone 5 in 2012 (aluminum unibody), and the iPhone X (OLED display, Face ID sensor array). I don&#8217;t think the iPhone 6 and 6 Plus qualify, because I&#8217;m talking about things that make a new iPhone design difficult and/or unusually expensive to manufacture and assemble &#8212; they looked different just because they were bigger, but I don&#8217;t think there was anything about them that made them more difficult to assemble than the iPhone 5/5S. Of those radically new iPhones, only one, the iPhone 4, hung around in the product lineup at a lower price after its successor debuted. That&#8217;s particularly humorous, given that the iPhone 4 was the iPhone with the most-publicized design &#8220;flaw&#8221; &#8212; the antenna that was subject to attenuation issues if, you know, you held it wrong. <em>And</em> the iPhone 4 suffered from what was inarguably the worst manufacturing problem in the entire history of the product: the white models <a href=\"https://www.macworld.com/article/1159502/white_iphone4_shipping.html\">shipped almost an entire year late</a>.&nbsp;<a href=\"#fnr1-2018-01-22\"  class=\"footnoteBackLink\"  title=\"Jump back to footnote 1 in the text.\">&#x21A9;&#xFE0E;︎</a></p>\n</li>\n\n<li id=\"fn2-2018-01-22\">\n<p>I put a lot of thought into getting my own headlines <a href=\"https://daringfireball.net/2008/03/fucking_headline\">just right</a>.&nbsp;<a href=\"#fnr2-2018-01-22\"  class=\"footnoteBackLink\"  title=\"Jump back to footnote 2 in the text.\">&#x21A9;&#xFE0E;</a></p>\n</li>\n</ol>\n\n</div>\n\n\n\n    "
+      },
+      {
+         "title" : "★ Dean Allen",
+         "date_published" : "2018-01-19T02:58:44Z",
+         "date_modified" : "2018-01-19T07:20:13Z",
+         "id" : "https://daringfireball.net/2018/01/dean_allen",
+         "url" : "https://daringfireball.net/2018/01/dean_allen",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p><a href=\"https://om.co/2018/01/18/dean-allen-rest-in-peace/\">Om Malik</a>:</p>\n\n<blockquote>\n  <p>Dean Cameron Allen, a 50-ish writer, designer, web-guy, and an\nall-around rascal, died this weekend in London, U.K. He leaves\nbehind his parents, a former girlfriend and a lot of friends. If\nthe universe feels a little hollow this week, now you know why.</p>\n\n<p>Jason Hoffman, founder of Joyent and a close friend, called out of\nthe blue. He has just moved back from Stockholm, back to the Bay\nArea after a stint at Ericsson. “Dean is no more,” Jason said. He\nwas fighting to hold back his tears, his voice shaking. I think I\nheard Jason say that Dean took his own life, giving up on the\nstruggle.</p>\n</blockquote>\n\n<p>Dean was a magnificent bastard. His death is a real gut punch. I heard about it two days ago, and still can&#8217;t believe it. Om&#8217;s obituary is simply splendid, capturing the man I knew.</p>\n\n<p>Textism was such an achingly-good thing &#8212; an utterly personal website of exquisite writing and beautiful design. Unlike most who came from the print world &#8212; and Dean was a mightily talented print designer &#8212; Dean loved and truly <em>got</em> the web. He knew it wasn&#8217;t an ersatz throwaway stand-in for people too cheap to pay for the print edition of a magazine or newspaper. He knew the web was a wonderful new medium of its own, a glorious playground ripe for anything. Textism was well-paced.</p>\n\n<p>Dean strove for perfection and often achieved it.</p>\n\n<p>Textism started in 2001, a little over a year before I started Daring Fireball. To say that Textism was an influence on Daring Fireball is an understatement for the ages. Fairer to say Textism was <em>the</em> influence on Daring Fireball. I don&#8217;t know what DF would&#8217;ve wound up looking and reading like if not for Dean Allen, but it wouldn&#8217;t look or read like it did and does. For godsake <a href=\"https://web.archive.org/web/20021210080822/http://textism.com:80/about/\">just read his old About page</a>. It&#8217;s so good, and so <em>Dean</em>.</p>\n\n<p>On the indie web of the early 2000s, Dean Allen was <em>the man</em>. There&#8217;s just no other way to put it. He did it better than anyone, week after week, post after post. And then he just walked away from it. For a while, the long-dormant home page of Textism.com was replaced by a single word: &#8220;<a href=\"https://web.archive.org/web/20130822210522/http://textism.com/\">Retooling</a>.&#8221; The thought that Textism might someday spring back to life made me downright giddy.</p>\n\n<p>The closest I ever came to telling Dean what an influence Textism was on Daring Fireball was the following, in an email in 2002, after I wrote to him to thank him for a post on Textism &#8212; <a href=\"https://web.archive.org/web/20021226034931/http://textism.com:80/article/648/\">announcing the release of Textile</a> &#8212; that described yours truly as &#8220;witheringly talented&#8221;:</p>\n\n<blockquote>\n  <p>Textism has been an inordinate influence on me; there is nothing\nelse quite like it, but I wish there were.</p>\n</blockquote>\n\n<p>Daring Fireball was only months old when I wrote that. We were frequent email correspondents in those days. He was, as you would expect considering his sublime entry titles at Textism, a master of the clever Subject: line. I helped him with the quote-educating algorithms in Textile. He helped me form the basis of Markdown. (I was badgering Dean with a series of &#8220;Why don&#8217;t you change the syntax of Textile to be more like <em>this</em> and <em>this</em>?&#8221; requests. Dean&#8217;s response was, more or less, &#8220;These are great ideas, but why don&#8217;t you just put them in your own thing?&#8221;)</p>\n\n<p>A year later, Dean wrote me this:</p>\n\n<blockquote>\n  <p>Date: Fri, 14 Nov 2003 19:38:16 +0100 <br />\nFrom: Dean Allen <br />\nSubject: Empty Coffee Pot</p>\n\n<ol>\n<li><p>I really really liked the OSX screen reading essay.</p></li>\n<li><p>Good job on the Waffle interview: you’re really establishing a\nVoice. Something most writers can only dream of.</p></li>\n<li><p>I plan to start corresponding with people again once I get over\nthe guilt of not having corresponded with people while I went\nthrough the Samsa-like transformation from someone who got away\nwith pretending the rest of the internet didn’t exist into\nsomeone who did not.</p></li>\n</ol>\n\n<p>Yr lad,</p>\n\n<p>- dca</p>\n</blockquote>\n\n<p>(The &#8220;OSX screen reading essay&#8221; was <a href=\"https://daringfireball.net/2003/11/panther_text_rendering\">this 2,900-word exegesis on the improvements to text rendering in Mac OS X 10.3</a>. The &#8220;Waffle interview&#8221; was <a href=\"https://web.archive.org/web/20040602234722/http://iron.wootest.net/john_gruber.php\">this</a>.)</p>\n\n<p>Dean Allen telling me I was &#8220;establishing a Voice&#8221; is the only compliment about my work that I&#8217;ve ever remembered. That&#8217;s when I knew that maybe I was actually hitting the notes I was trying to hit.</p>\n\n<p>We lost contact in the years of his self-imposed internet exile. Our last email exchange was over seven years ago. Every few months, though, it would occur to me that I dearly missed Textism, and I&#8217;d think to write Dean and tell him so &#8212; and to tell him that his offhand compliment in 2003 was still something I thought about all the time. Thinking maybe he&#8217;d be pleased to hear that, and perhaps he <em>needed</em> to hear it. I never did.</p>\n\n<p>I wish I had.</p>\n\n\n\n    "
+      },
+      {
+         "title" : "★ ScreenShield — a Third-Party SDK That Somehow Allows iOS Apps to Prevent Screenshots",
+         "date_published" : "2018-01-11T03:34:13Z",
+         "date_modified" : "2018-01-18T22:29:42Z",
+         "id" : "https://daringfireball.net/2018/01/screenshield",
+         "url" : "https://daringfireball.net/2018/01/screenshield",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p><a href=\"https://blog.getconfide.com/introducing-screenshield-ios-screenshot-prevention-for-confide-and-beyond-692bbae2c31d\">From the announcement of a new version of Confide, a &#8220;confidential messenger&#8221; app</a>:</p>\n\n<blockquote>\n  <p>ScreenShield is a patent-pending technology that allows you to\nview an app’s content on your screen but prevents you from taking\na screenshot of it. If you try to take a screenshot on Confide,\nyou will now simply capture a blank screen¹. ScreenShield also\nprotects against other forms of screen capture, including iOS 11\nscreen recording, AirPlay screen mirroring, QuickTime screen\nrecording as well as taking screenshots from the app switcher or\nby using Xcode.</p>\n\n<p>We initially developed ScreenShield for Confide, but quickly\nrealized that it could be used in a large number of apps &#8212; far\nmore than we could build ourselves. That’s why we created\n<a href=\"https://screenshieldkit.com/\">ScreenShieldKit</a> &#8212; to offer the ScreenShield technology to\n3rd-party developers for use in a variety of different apps and\ncategories.</p>\n\n<p>While there’s a lot of technology under the hood that makes\nScreenShield possible, the great news is that there are no strange\ngimmicks for users (e.g., it doesn’t require them to hold their\nfinger on the screen) &#8212; it just works as expected. And\nScreenShieldKit is simple for developers to integrate into their\niOS apps, providing easy to use replacements for UITextView and\nUIImageView.</p>\n</blockquote>\n\n<p>It&#8217;s an interesting puzzle trying to figure out how they&#8217;re doing this. Detecting that a screenshot <em>has</em> been taken is easy &#8212; <a href=\"https://developer.apple.com/documentation/uikit/uiscreencaptureddidchangenotification\">iOS has an API</a> that apps can use to get notified when the screen is recorded in any way. But ScreenShield is detecting it <em>before</em> the screenshot gets taken, so they can blank out the content in their text and image views.</p>\n\n<p>I wasn&#8217;t familiar with Confide, so I downloaded it and kicked the tires, and the screenshot prevention works as advertised. Confide <em>also</em> sends a notification to whomever you&#8217;re messaging with to warn them that you <em>tried</em> to take a screenshot, <em>a la</em> Snapchat, and they immediately delete the message you tried to capture (I presume so that you can&#8217;t try to capture it another way, like, say, by taking a photo of the screen &#8212; see below).</p>\n\n<p>My best guess as to how they&#8217;re doing this is that they&#8217;re using AVPlayer and somehow using <a href=\"https://www.reddit.com/r/iOSProgramming/comments/6h1nkc/how_are_apps_like_netflix_hbo_go_blocking_screen/\">FairPlay Streaming</a> to block screenshots and recording. (Where by &#8220;my&#8221; best guess I mean the best guess of <a href=\"http://bitsplitting.org/\">a smart friend</a> who poked around the Confide app bundle.) Have you ever noticed how you can&#8217;t take screenshots of streaming video content in apps like Netflix and HBO Go/Now? That&#8217;s a feature in iOS (and MacOS &#8212; try taking a screenshot of Netflix video playing in Safari) for skittish video providers who don&#8217;t want us to capture even a still frame of their precious content. I <em>think</em> ScreenShieldKit is somehow using this to prevent screenshots or video captures of text or images.</p>\n\n<p>If anyone out there has a better or more informed guess, please let me know.</p>\n\n<p>If I&#8217;m reading their application correctly, Confide has also filed for a patent <a href=\"http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=9648001&amp;OS=9648001&amp;RS=9648001\">for a way to identify when you&#8217;re using another device to take a photo of your screen</a>.</p>\n\n\n\n    "
+      }
+   ]
+}
