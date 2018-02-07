@@ -1,16 +1,9 @@
 {
    "title" : "Daring Fireball",
-   "home_page_url" : "https://daringfireball.net/",
-   "feed_url" : "https://daringfireball.net/feeds/json",
-   "author" : {
-      "url" : "https://twitter.com/gruber",
-      "name" : "John Gruber"
-   },
    "items" : [
       {
          "title" : "‘Philly Special’",
          "date_published" : "2018-02-05T19:21:56Z",
-         "date_modified" : "2018-02-05T19:24:05Z",
          "id" : "https://daringfireball.net/linked/2018/02/05/philly-special",
          "url" : "https://daringfireball.net/linked/2018/02/05/philly-special",
          "external_url" : "https://www.si.com/nfl/2018/02/05/super-bowl-52-eagles-patriots-peter-king-mmqb",
@@ -22,7 +15,6 @@
       {
          "title" : "Instabug",
          "date_published" : "2018-02-02T22:56:03Z",
-         "date_modified" : "2018-02-02T22:56:06Z",
          "id" : "https://daringfireball.net/linked/2018/02/02/instabug",
          "url" : "https://daringfireball.net/linked/2018/02/02/instabug",
          "external_url" : "https://instabug.com/df?utm_source=daringfireball&utm_medium=feed&utm_campaign=newsletter4",
@@ -34,7 +26,6 @@
       {
          "title" : "Google Releases YouTube TV App for Apple TV (and Roku)",
          "date_published" : "2018-02-02T22:32:50Z",
-         "date_modified" : "2018-02-02T22:49:10Z",
          "id" : "https://daringfireball.net/linked/2018/02/02/youtube-tv-apple-tv",
          "url" : "https://daringfireball.net/linked/2018/02/02/youtube-tv-apple-tv",
          "external_url" : "https://venturebeat.com/2018/02/01/google-releases-youtube-tv-app-for-apple-tv-and-roku/",
@@ -46,7 +37,6 @@
       {
          "title" : "Why Alexa Won’t Light Up During Amazon’s Super Bowl Ad",
          "date_published" : "2018-02-02T18:12:37Z",
-         "date_modified" : "2018-02-02T18:17:25Z",
          "id" : "https://daringfireball.net/linked/2018/02/02/alexa-super-bowl",
          "url" : "https://daringfireball.net/linked/2018/02/02/alexa-super-bowl",
          "external_url" : "https://www.bloomberg.com/news/articles/2018-02-02/here-s-why-alexa-won-t-light-up-during-amazon-s-super-bowl-ad",
@@ -58,7 +48,6 @@
       {
          "title" : "Actual Headline From NBC News: ‘Can Self-Taught Rocket Scientist Mike Hughes Prove Earth Is Flat?’",
          "date_published" : "2018-02-02T17:09:46Z",
-         "date_modified" : "2018-02-02T17:12:36Z",
          "id" : "https://daringfireball.net/linked/2018/02/02/nbc-news-headlines",
          "url" : "https://daringfireball.net/linked/2018/02/02/nbc-news-headlines",
          "external_url" : "https://www.nbcnews.com/video/can-self-taught-rocket-scientist-mike-hughes-prove-earth-is-flat-1151204931647?v=b&cid=sm_npd_nn_tw_ma",
