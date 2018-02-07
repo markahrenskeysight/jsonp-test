@@ -1,5 +1,4 @@
 {
-   "version" : "https://jsonfeed.org/version/1",
    "title" : "Daring Fireball",
    "home_page_url" : "https://daringfireball.net/",
    "feed_url" : "https://daringfireball.net/feeds/json",
@@ -7,8 +6,6 @@
       "url" : "https://twitter.com/gruber",
       "name" : "John Gruber"
    },
-   "icon" : "https://daringfireball.net/graphics/apple-touch-icon.png",
-   "favicon" : "https://daringfireball.net/graphics/favicon-64.png",
    "items" : [
       {
          "title" : "‘Philly Special’",
